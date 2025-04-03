@@ -28,14 +28,14 @@ def greet(name):
 greet("홍길동")
 ```
 #### 링크와 이미지
-[Google로 가기](https://www.google.co.kr/?hl=ko)
+[Google로 가기](https://www.google.co.kr/?hl=ko)  
 귀여운 고양이 이미지:
 
 #### 할 일 목록
-- [x]깃헙 계정 만들기
-- [x]리포지토리 생성하기
-- [ ]README 작성하기
-- [ ]이슈 등록하기
+- [x] 깃헙 계정 만들기
+- [x] 리포지토리 생성하기
+- [ ] README 작성하기
+- [ ] 이슈 등록하기
 
 #### 테이블 작성하기
 |이름|나이|취미|
