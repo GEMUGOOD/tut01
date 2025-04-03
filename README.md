@@ -31,6 +31,8 @@ greet("홍길동")
 [Google로 가기](https://www.google.co.kr/?hl=ko)  
   
 귀여운 고양이 이미지:  
+  
+![고양이 이미지](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
 
 
 #### 할 일 목록
